@@ -2,7 +2,7 @@
 
 **Project Objective** :- Prerna Store wants to prepare a sales report Using MS Excel for the Calender Year 2022 to provide insights into sales performance over the year. It tracks various sales related metrics, so that store can enhence their business in the cominig years based on report.( https://github.com/ajaypatel55/Excel-Sales_-Data-Analysis/blob/main/Sale_Dashboard.pdf )
 
-**Technical Skills Used in Excel to built Dashboard** :- ( https://github.com/ajaypatel55/Excel-Sales_-Data-Analysis/blob/main/Prerna%20store%20sales%20data%20analysis.xlsx )
+**Technical Skills Used in Excel to built Dashboard** :-
     
     - Data Cleaning.
     - Data Processing.
