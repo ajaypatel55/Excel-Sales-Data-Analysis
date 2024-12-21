@@ -1,27 +1,58 @@
-## Sales Analysis:
+# Sales Data Analysis
 
-**Project Objective** :- Prerna Store wants to prepare a sales report Using MS Excel for the Calender Year 2022 to provide insights into sales performance over the year. It tracks various sales related metrics, so that store can enhence their business in the cominig years based on report.( https://github.com/ajaypatel55/Excel-Sales_-Data-Analysis/blob/main/Sale_Dashboard.pdf )
+This project demonstrates my proficiency in MS Excel, focusing on sales data analysis of fictitious store called Prerna Store for the calender year 2022. this project shows techniques used to analyze sales trends and identifying key insights.
 
-**Technical Skills Used in Excel to built Dashboard** :-
-    
-    - Data Cleaning.
-    - Data Processing.
-    - Pivot tables & slicers.
-    - Pivot charts & its formatting.
-    - Excel various formula & functions.
-    - Establishing data model relationships with Power Pivot.
-    - Utilizing DAX to create calculated columns.
+## Table of Contents
+1. [Objectives](#objectives)
+2. [Excel Techniques Used](#excel-techniques-used)
+3. [Businesss Questions Explored](#businesss questions explored)
+4. [File Structure](#file structure)
+5. [Findings](#results-insights)
 
- **File Structure** :-
-    
-  - Sales raw data. xlsx file contains the sales transaction.
-  - Prerna store sales data analysis. xlsx file contain many sheets including Dashboard which provides a sales trends for month, top states, Product category  sales 
-    etc.
-  - sale_dashboard. pdf gives summery of sales report.
 
-**Insights/Findings** :-
-  
-   - Top 5 states contributing more than 50% of total sales for the entire 2022 calender year.
-   - Kurta & Set are two prefered product category of customers which overall accounts for 70% of total sales.
-   - During the February & March months sales are mare.
-   - Adult age group (19-39 years) contributes to 55% of ovrall sales.
+## Objectives
+
+- Perform data cleaning and data transformation
+- Create dashboard to present the results
+- Generate automated reports for stakeholders to make data driven decision to enhence the business growth.
+
+## Excel Techniques Used
+
+- **Data Cleaning & Transformation:** Using Excel's functions, filters, and sorting to clean and preprocess data.
+- **Pivot Tables**: Aggregating and summarizing sales data to provide insights into total sales by product category, states, channel and month wise sales.
+- **Data Visualization**: Creating charts to visualize sales trends and performance.
+- **Dashboards**: Designing a dashboard that provides an interactive view of key performance metrics.
+- **Power Pivot**: Utilizing DAX to create calculated columns.
+
+## Businesss Questions Explored
+
+- Top States Which is contributing to maximum sales
+- Product category wise Sales breakdown
+- Channel contribution to sale
+- Order status breakdown
+- Identifying the potential customers and the age group which contributes maximum in sales in oderder to grow the business.
+
+## File Structure 
+
+- raw data. xlsx file contains the each and every sales transaction occur.
+- Prerna store sales data analysis. xlsx file contain pivot table sheet, which contain six(6) pivot tables and different     
+  charts to summarize and visualise the sales data. 
+- Excel_dashboard. pdf gives summery of sales report.
+
+## Findings
+
+- **Top 5 states contributing more than 50% of total sales for the entire 2022 year.**
+- **Kurta & Set are two prefered product category of customers which overall accounts for 70% of total sales.**
+- **During the Feb & March months sale is maximum in the whole year 2022.**
+- **Adult age group (19-39 years) contributes to 55% of ovrall sales.**
+
+
+
+
+
+
+
+
+
+
+.
