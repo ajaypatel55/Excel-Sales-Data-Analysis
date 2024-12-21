@@ -3,11 +3,11 @@
 This project demonstrates my proficiency in MS Excel, focusing on sales data analysis of fictitious store called Prerna Store for the calender year 2022. this project shows techniques used to analyze sales trends and identifying key insights.
 
 ## Table of Contents
-1. [Objectives](#objectives)
-2. [Excel Techniques Used](#excel-techniques-used)
-3. [Businesss Questions Explored](#businesss questions explored)
-4. [File Structure](#file structure)
-5. [Findings](#results-insights)
+1. Objectives
+2. Excel Techniques Used
+3. Businesss Questions Explored
+4. File Structure
+5. Findings
 
 
 ## Objectives
@@ -24,7 +24,7 @@ This project demonstrates my proficiency in MS Excel, focusing on sales data ana
 - **Dashboards**: Designing a dashboard that provides an interactive view of key performance metrics.
 - **Power Pivot**: Utilizing DAX to create calculated columns.
 
-## Businesss Questions Explored
+## Business Questions Explored
 
 - Top States Which is contributing to maximum sales
 - Product category wise Sales breakdown
